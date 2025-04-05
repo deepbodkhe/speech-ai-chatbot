@@ -24,7 +24,7 @@ A Python-based system for transcribing, translating, and querying YouTube video 
    pip install -r requirements.txt
 ## File Structure
 ``` 
-speech-ai-clean/
+speech-ai-chatbot/
 ├── .gitignore
 ├── README.md
 ├── chatbot.py            # Chatbot interface
